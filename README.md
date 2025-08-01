@@ -19,6 +19,9 @@ An interactive **Streamlit-powered web app** that analyzes user portfolios, visu
 
 ---
 
+👉 [Click here to use the app](https://smart-ai-financial-portfolio-h4ygfej7ddvukmscecfpkb.streamlit.app/)
+
+
 ## 🧪 Sample CSV Input
 
 Your `sample_portfolio.csv` should look like this:
@@ -33,6 +36,6 @@ Solana,600,660
 
 ## 🌐 Live Demo
 
-👉 [Click here to use the app](https://smart-ai-financial-portfolio-h4ygfej7ddvukmscecfpkb.streamlit.app/)
+
 
 
