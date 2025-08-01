@@ -31,5 +31,8 @@ Solana,600,660
 
 ## 🌐 Try It Live
 
-👉 [Click here to use the app](https://smart-ai-financial-portfolio-h4ygfej7ddvukmscecfpkb.streamlit.app/)  
-Upload your portfolio CSV and get insights in seconds!
+## 🌐 Live Demo
+
+👉 [Click here to use the app](https://smart-ai-financial-portfolio-h4ygfej7ddvukmscecfpkb.streamlit.app/)
+
+
