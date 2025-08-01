@@ -28,3 +28,8 @@ Asset,Invested_Amount,Current_Value
 Bitcoin,1000,1200
 Ethereum,800,1120
 Solana,600,660
+
+## 🌐 Try It Live
+
+👉 [Click here to use the app](https://smart-ai-financial-portfolio-h4ygfej7ddvukmscecfpkb.streamlit.app/)  
+Upload your portfolio CSV and get insights in seconds!
